@@ -8,6 +8,6 @@ I am a recent Software Engineering graduate from Carleton University. I have a s
 </p>
 
 ## 💻 Programming Languages:
-Here are several programming languages that I know:
+Here are a few programming languages that I know:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKapoor1102&theme=tokyonight)
 
