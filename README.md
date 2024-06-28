@@ -10,8 +10,8 @@ Here are a few languages that I know:
 <h2>Contact Information</h2>
 <p align="left">
   <ul>
-    <li>Email me at <a href="mailto:yashkapooruni@gmail.com">✉️ yashkapooruni@gmail.com</a></li><br>
-    <li>Connect with me on <a href="https://linkedin.com/in/yash-kapoor-8a6784205/" target="blank">🔗 LinkedIn</a></li>
+    <li>Email me at ✉️ <a href="mailto:yashkapooruni@gmail.com">yashkapooruni@gmail.com</a></li><br>
+    <li>Connect with me on 🔗 <a href="https://linkedin.com/in/yash-kapoor-8a6784205/" target="blank">LinkedIn</a></li>
   <ul>  
 </p>
 
