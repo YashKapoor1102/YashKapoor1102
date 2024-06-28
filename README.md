@@ -10,5 +10,6 @@ I am a recent Software Engineering graduate from Carleton University. I have a s
 ## 💻 Programming Languages:
 Here are a few programming languages that I know:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKapoor1102&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKapoor1102&langs_count=10&theme=tokyonight)
+
 
