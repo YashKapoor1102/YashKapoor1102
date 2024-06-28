@@ -7,5 +7,7 @@ I am a recent Software Engineering graduate from Carleton University. I have a s
 <a href="https://linkedin.com/in/yash-kapoor-8a6784205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-kapoor-8a6784205/" height="30" width="40" /></a>
 </p>
 
-## 💻 Technology Stack:
+## 💻 Programming Languages:
 Here are several programming languages that I know:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKapoor1102&theme=tokyonight)
+
