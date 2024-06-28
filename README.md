@@ -8,6 +8,7 @@ Here are a few languages that I know:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKapoor1102&langs_count=10&theme=tokyonight)
 
 <h2> 📧 Contact Information: </h2>
+<p>Feel free to reach out!</p>
 <p align="left">
   <ul>
     <li>Email me at ✉️ <a href="mailto:yashkapooruni@gmail.com">yashkapooruni@gmail.com</a></li>
