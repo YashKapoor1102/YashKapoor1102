@@ -3,7 +3,7 @@
 I am a recent software engineering graduate from Carleton University. I have a strong passion for developing innovative and user-friendly applications. My academic and project experiences have equipped me with skills in full-stack development, particularly using technologies like React, Node.js, Python, Java, and C++. I first fell in love with programming in middle school while exploring Python. Hence, this passion has driven me to constantly strive for improvement and tackle new challenges. I'm enthusiastic about exploring new opportunities and collaborating on projects that drive positive change and impact.
 
 <h2>💻 Languages:</h2> 
-Here are a few languages that I know:
+Here are a few languages that I know:<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKapoor1102&langs_count=10&theme=tokyonight)
 
