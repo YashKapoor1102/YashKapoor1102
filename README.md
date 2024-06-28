@@ -11,7 +11,7 @@ Here are a few languages that I know:
 <p align="left">
   <ul>
     <li>Email me at ✉️ <a href="mailto:yashkapooruni@gmail.com">yashkapooruni@gmail.com</a></li>
-    <li>Connect with me on 🔗 <a href="https://linkedin.com/in/yash-kapoor-8a6784205/" target="_blank" rel="nofollow">LinkedIn</a></li>
+    <li>Connect with me on 🔗 <a href="https://linkedin.com/in/yash-kapoor-8a6784205/">LinkedIn</a></li>
   </ul>  
 </p>
 
