@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Yash</h1>
-🌱 About Me: I am a recent Software Engineering graduate from Carleton University. I have a strong passion for developing innovative and user-friendly applications. My academic and project experiences have equipped me with skills in full-stack development, particularly using technologies like React, Node.js, Python, Java, and C++. I thrive on tackling new challenges and constantly strive to improve my skills. I'm enthusiastic about exploring new opportunities and collaborating on projects that drive positive change and impact.
+<h2>🌱 About Me:</h2>
+I am a recent Software Engineering graduate from Carleton University. I have a strong passion for developing innovative and user-friendly applications. My academic and project experiences have equipped me with skills in full-stack development, particularly using technologies like React, Node.js, Python, Java, and C++. I thrive on tackling new challenges and constantly strive to improve my skills. I'm enthusiastic about exploring new opportunities and collaborating on projects that drive positive change and impact.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
