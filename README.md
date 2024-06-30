@@ -15,7 +15,7 @@ Here are a few languages that I know:<br><br>
     <li>Connect with me on 🔗 <a href="https://linkedin.com/in/yash-kapoor-8a6784205/">LinkedIn</a></li>
   </ul>  
 </p>
-![](https://komarev.com/ghpvc/?username=yashkapoor1102)
+
 
 
 
