@@ -17,7 +17,8 @@ Here are a few languages that I know:<br><br>
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashkapoor1102&icon=3&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yashkapoor1102&icon=3&color=6)](https://visitcount.itsvg.in)
+
 
 
 
