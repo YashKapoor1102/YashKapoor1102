@@ -16,9 +16,6 @@ Here are a few languages that I know:<br><br>
   </ul>  
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=yashkapoor1102&icon=3&color=6)](https://visitcount.itsvg.in)
-
 
 
 
