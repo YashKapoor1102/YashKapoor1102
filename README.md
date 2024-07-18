@@ -5,7 +5,7 @@ I am a recent software engineering graduate from Carleton University. I have a s
 <h2>💻 Languages:</h2> 
 Here are a few languages that I know:<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKapoor1102&langs_count=10&theme=tokyonight&cache_seconds=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKapoor1102&langs_count=10&theme=tokyonight)
 
 <h2> 📧 Contact Information: </h2>
 <p>Feel free to reach out!</p>
